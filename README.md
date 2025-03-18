@@ -1,2 +1,2 @@
 # TrisGame
-A simple Tris game
+A simple Tic-Tac-Toe 
